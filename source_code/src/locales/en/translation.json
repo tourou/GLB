@@ -1,0 +1,136 @@
+{
+  "navigation": {
+    "home": "Home",
+    "qa": "Q&A",
+    "howto": "How-To",
+    "showcase": "Showcase",
+    "profile": "Profile"
+  },
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "open": "Open"
+  },
+  "header": {
+    "welcome": "Welcome to YouWare Creator Forum",
+    "menu": "Menu"
+  },
+  "home": {
+    "title": "Dashboard",
+    "welcome": "Welcome to YouWare Creator Forum!",
+    "description": "Learn, share, showcase, and connect to grow your skills together.",
+    "stats": {
+      "totalUsers": "Total Users",
+      "activePosts": "Active Posts",
+      "todayQuestions": "Today's Questions"
+    },
+    "recentPosts": {
+      "title": "Recent Posts",
+      "noRecent": "No recent posts"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "askQuestion": "Ask Question",
+      "shareGuide": "Share Guide",
+      "showProject": "Show Project"
+    }
+  },
+  "qa": {
+    "title": "Q&A",
+    "description": "Post questions and get answers from the community!",
+    "askQuestion": "Ask Question",
+    "categories": {
+      "general": "General",
+      "technical": "Technical",
+      "design": "Design",
+      "workflow": "Workflow"
+    },
+    "post": {
+      "title": "Title",
+      "titlePlaceholder": "Enter your question title",
+      "content": "Content",
+      "contentPlaceholder": "Enter your question details",
+      "category": "Category",
+      "submitQuestion": "Submit Question",
+      "updateQuestion": "Update Question",
+      "editMode": "Edit Mode",
+      "createMode": "Create New",
+      "authorOnly": "Only the author can edit or delete"
+    },
+    "filters": {
+      "newest": "Newest",
+      "oldest": "Oldest",
+      "mostAnswered": "Most Answered"
+    }
+  },
+  "howto": {
+    "title": "How-To Guides",
+    "description": "Share and learn YouWare tips and workflows!",
+    "categories": {
+      "basics": "Basics",
+      "advanced": "Advanced",
+      "tips": "Tips",
+      "workflow": "Workflow"
+    },
+    "noGuides": "No guides yet"
+  },
+  "showcase": {
+    "title": "Showcase",
+    "description": "Share your amazing projects and inspire other creators!",
+    "categories": {
+      "web": "Web Development",
+      "mobile": "Mobile Apps",
+      "design": "Design",
+      "other": "Other"
+    },
+    "noProjects": "No projects yet"
+  },
+  "profile": {
+    "title": "Profile",
+    "info": {
+      "joinedDate": "Joined Date",
+      "totalPosts": "Total Posts",
+      "totalAnswers": "Total Answers",
+      "helpfulAnswers": "Helpful Answers"
+    },
+    "badges": {
+      "title": "Badges",
+      "noBadges": "No badges yet"
+    },
+    "recentActivity": {
+      "title": "Recent Activity",
+      "noActivity": "No recent activity"
+    },
+    "stats": {
+      "title": "Statistics",
+      "questionsAsked": "Questions Asked",
+      "answersGiven": "Answers Given",
+      "helpfulVotes": "Helpful Votes",
+      "reputation": "Reputation Points"
+    }
+  },
+  "auth": {
+    "loading": "Loading authentication...",
+    "notAuthenticated": "Not authenticated",
+    "welcome": "Welcome"
+  },
+  "errors": {
+    "networkError": "Network error occurred",
+    "serverError": "Server error occurred",
+    "unknownError": "Unknown error occurred",
+    "loadingFailed": "Loading failed"
+  }
+}

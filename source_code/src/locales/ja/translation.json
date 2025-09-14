@@ -1,0 +1,136 @@
+{
+  "navigation": {
+    "home": "ホーム",
+    "qa": "Q&A",
+    "howto": "使い方",
+    "showcase": "作品シェア",
+    "profile": "プロフィール"
+  },
+  "common": {
+    "search": "検索",
+    "filter": "フィルター",
+    "all": "すべて",
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "submit": "送信",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "edit": "編集",
+    "delete": "削除",
+    "confirm": "確認",
+    "back": "戻る",
+    "next": "次へ",
+    "previous": "前へ",
+    "close": "閉じる",
+    "open": "開く"
+  },
+  "header": {
+    "welcome": "YouWareクリエイター交流フォーラムへようこそ",
+    "menu": "メニュー"
+  },
+  "home": {
+    "title": "ダッシュボード",
+    "welcome": "YouWareクリエイター交流フォーラムへようこそ！",
+    "description": "学び・共有・作品発表・交流を通じて、一緒にスキルアップしていきましょう。",
+    "stats": {
+      "totalUsers": "総ユーザー数",
+      "activePosts": "アクティブな投稿",
+      "todayQuestions": "今日の質問"
+    },
+    "recentPosts": {
+      "title": "最新の投稿",
+      "noRecent": "最新の投稿はありません"
+    },
+    "quickActions": {
+      "title": "クイックアクション",
+      "askQuestion": "質問する",
+      "shareGuide": "ガイドを共有",
+      "showProject": "作品を見せる"
+    }
+  },
+  "qa": {
+    "title": "Q&A",
+    "description": "質問を投稿して、コミュニティから回答をもらおう！",
+    "askQuestion": "質問する",
+    "categories": {
+      "general": "一般",
+      "technical": "技術",
+      "design": "デザイン",
+      "workflow": "ワークフロー"
+    },
+    "post": {
+      "title": "タイトル",
+      "titlePlaceholder": "質問のタイトルを入力してください",
+      "content": "内容",
+      "contentPlaceholder": "質問の詳細を入力してください",
+      "category": "カテゴリ",
+      "submitQuestion": "質問を投稿",
+      "updateQuestion": "質問を更新",
+      "editMode": "編集モード",
+      "createMode": "新規作成",
+      "authorOnly": "投稿者のみ編集・削除できます"
+    },
+    "filters": {
+      "newest": "最新",
+      "oldest": "古い順",
+      "mostAnswered": "回答数多い"
+    }
+  },
+  "howto": {
+    "title": "使い方ガイド",
+    "description": "YouWareの使い方やTipsを共有・学習しよう！",
+    "categories": {
+      "basics": "基本操作",
+      "advanced": "応用技術",
+      "tips": "便利なTips",
+      "workflow": "ワークフロー"
+    },
+    "noGuides": "まだガイドがありません"
+  },
+  "showcase": {
+    "title": "作品シェア",
+    "description": "あなたの素晴らしい作品をシェアして、他のクリエイターにインスピレーションを与えよう！",
+    "categories": {
+      "web": "Web開発",
+      "mobile": "モバイルアプリ",
+      "design": "デザイン",
+      "other": "その他"
+    },
+    "noProjects": "まだ作品がありません"
+  },
+  "profile": {
+    "title": "プロフィール",
+    "info": {
+      "joinedDate": "参加日",
+      "totalPosts": "総投稿数",
+      "totalAnswers": "総回答数",
+      "helpfulAnswers": "役立つ回答数"
+    },
+    "badges": {
+      "title": "バッジ",
+      "noBadges": "まだバッジがありません"
+    },
+    "recentActivity": {
+      "title": "最近のアクティビティ",
+      "noActivity": "最近のアクティビティはありません"
+    },
+    "stats": {
+      "title": "統計情報",
+      "questionsAsked": "質問した数",
+      "answersGiven": "回答した数",
+      "helpfulVotes": "役立つ投票数",
+      "reputation": "評価ポイント"
+    }
+  },
+  "auth": {
+    "loading": "認証情報を読み込み中...",
+    "notAuthenticated": "認証されていません",
+    "welcome": "ようこそ"
+  },
+  "errors": {
+    "networkError": "ネットワークエラーが発生しました",
+    "serverError": "サーバーエラーが発生しました", 
+    "unknownError": "不明なエラーが発生しました",
+    "loadingFailed": "読み込みに失敗しました"
+  }
+}
